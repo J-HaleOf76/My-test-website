@@ -1,6 +1,7 @@
 # My-test-website
 
-* this needs to be better organized
+* This is a template for future use
+* Follow along project from YouTube
 
 
 # TODO
