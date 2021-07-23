@@ -5,12 +5,12 @@
 
 - fix-up post name html page
 
-# To deploy try am easy backend method
+# To deploy try an easy backend method
 
 * github pages
 * google docks?
 * huroku
-* ???
+* GitLab
 * SAVE TO GITHUB
 
 ## change the file structure 
@@ -18,12 +18,6 @@
 * edit after saving to github
 ** hello again **
 
-
-
-
-
-+ learn how to call the other pages in the file system 
-
-** learn mark down **
+** learn mark down better **
 
 # README #
